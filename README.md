@@ -1,2 +1,1 @@
-# Power-Bi-Projects
-Power Bi Project based on Sales 
+This Power Bi project analyzing US retail sales data from 2015. It includes datasets, code/scripts for data transformations, Power BI files capturing visualizations, and documentation outlining project objectives, methodologies, and key insights. 
